@@ -1,0 +1,25 @@
+/*
+    Sunku Ravindranath, Raghav Kishan
+    Project #3
+    Fall 2017
+    820174908
+    jadrn063*/
+
+*{
+	font-family: 'PT Sans', sans-serif;
+}
+
+.messageLine{
+	color: #ff3000;
+}
+
+.successMessageLine{
+	color: #32CD32;
+}
+
+/*.container{
+	background-image:  url('aztec-warrior.jpg');
+	background-size: 60%;
+	background-position: center;
+	background-repeat: no-repeat;
+}*/

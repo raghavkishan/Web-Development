@@ -1,0 +1,263 @@
+/*
+    Sunku Ravindranath, Raghav Kishan
+    Project #1
+    Fall 2017
+    820174908
+    jadrn063*/
+
+*{
+	margin:0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+body{
+
+	font-size: 25px;
+	background-color: #F0FFFF;
+}
+
+p{
+	text-indent: 50px;
+	color: #333333;
+}
+
+#heading{
+
+	font-size: 200%;
+	text-align: center;
+	background-color: #2E28A3;
+	color: #FFFFFF;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-family: 'Julius Sans One', sans-serif;
+
+}
+
+#history_info{
+
+	font-size: 100%;
+	text-align: justify;
+	display: inline-block;
+	width: 80%;
+}
+
+#neighborhood_info{
+
+	font-size: 100%;
+	text-align: justify;
+	display: inline-block;
+	width: 80%;
+
+}
+
+#food_restaurant_info{
+	
+	font-size: 100%;
+	text-align: justify;
+	display: inline-block;
+	width: 80%;
+}
+
+#art_architecture_info{
+
+	font-size: 100%;
+	text-align: justify;
+	display: inline-block;
+	width: 80%;
+
+}
+
+#must_see_sites_info{
+
+	font-size: 100%;
+	text-align: justify;
+	display: inline-block;
+	width: 80%;
+}
+
+#history_info p{
+
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+#neighborhood_info div{
+
+	padding-left: 30px;
+	padding-right: 20px;
+}
+
+#neighborhood_info p{
+	
+	padding-top: 20px;
+}
+
+#food_restaurant_info div{
+
+	padding-left: 30px;
+	padding-right: 20px;
+}
+
+#art_architecture_info div{
+	
+	padding-left: 30px;
+	padding-right: 20px;
+}
+
+#must_see_sites_info div{
+
+	padding-left: 30px;
+	padding-right: 20px;
+}
+
+#navigation{
+
+	width: 20%;
+	display: inline-block;
+	float: right;
+	margin-top: 55px;
+	/*background-color: #b4b4b4;*/
+	height: 100%
+}
+
+#navigation a{
+	text-decoration: none;
+	list-style-type: none;
+	color: #2E28A3;
+	font-weight: bold;
+}
+
+#navigation ul{
+
+	list-style-type: none;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#navigation ul li{
+	border-bottom: solid 1px #039;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+
+
+#history_table{
+
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#history_table td, #history_table th{
+	border: 1px solid #ddd;
+	text-align: center;
+	padding: 10px 10px 10px
+}
+
+#history_table th{
+
+	color: #4A9FE0;
+}
+
+#census_heading{
+
+	text-align: center;
+	color: #4A9FE0;
+}
+
+#wrapper{
+	margin-top: 25px;
+}
+
+#page_heading{
+
+	font-size: 135%;
+	text-align: center;
+	color: #4A9FE0;
+}
+
+/*#mont_royal h3, #parc_jean_drapeau h3, #botonocal_garden h3, #rue_sherbrooke h3{
+
+	color: #42CE73;
+	padding-top: 15px;
+}*/
+
+#mont_royal img, #old_montreal_must_see img, #parc_jean_drapeau img, #botonocal_garden img{
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+
+#saint_sulpice img, #maison_saint_gabriel img, #mill img, #notre_dame_basilica img{
+
+	width: 620px;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+
+#old_montreal img, #downtown_montreal img, #chinatown_montreal img{
+
+	width: 400px;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+ #chinatown_montreal ul{
+
+ 	color: #333333;
+ 	padding-left: 30px;
+ 	padding-top: 20px;
+ }
+
+
+#beautys img, #au_pied_de_cochon img, #Shawarma img, #patati_patata img{
+
+	width: 400px;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+}
+
+h3{
+
+	color: #4A9FE0;
+	padding-top: 15px;
+
+}
+
+#history_info img{
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height: auto;
+	padding-top: 20px;
+
+}
+
+#history_info a{
+	padding-left: 30px;
+}

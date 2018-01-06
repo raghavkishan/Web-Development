@@ -1,0 +1,23 @@
+/*
+Sunku Ravindranath, Raghav Kishan
+Project #3
+Fall 2017
+820174908
+jadrn063*/
+
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+
+#heading{
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+}
+
+html, body {
+    height: 100%;
+}
+.container, .row.justify-content-center.align-items-center {
+    height: 100%;
+    min-height: 100%;
+}

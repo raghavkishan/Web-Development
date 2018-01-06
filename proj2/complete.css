@@ -1,0 +1,67 @@
+/*
+    Sunku Ravindranath, Raghav Kishan
+    Project #2
+    Fall 2017
+    820174908
+    jadrn063*/
+
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Audiowide', cursive;
+}
+
+body{
+
+    font-size: 1.75em;
+}
+
+p{
+    /*text-indent: 3.2em;*/
+    color: #333333;
+}
+
+#heading{
+
+    font-size: 300%;
+    color: #00a2b9;
+    font-weight: 350;
+    font-family: 'Audiowide', cursive;;
+    text-align: center;
+    padding-top: .2em;
+}
+
+.bodyOne{
+
+    margin-top: 1%;
+    background-color: #a50067;
+    color: #ffffff;
+}
+
+#marathonDisplayImage{
+    width: 750em;
+    height: auto;
+}
+
+.bodyOne p{
+    color: #ffffff;
+}
+
+.image{
+
+    width: 750px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.content{
+
+    padding: 1em .4em 0em 1em;
+    align-content: center;
+}
+ 
+#registerButton{
+    text-align: center;
+}
